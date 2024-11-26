@@ -429,7 +429,16 @@ p.sddg{
     border-radius: 10px;
     width: 200px;
     height: 30px;
-    margin-top: 170px;
+    margin-top: 50px;
     font-family: Nexa;
     color: rgb(148, 104, 104);
+    cursor: pointer;
+}
+
+.tombol{
+    margin-top: 170px;
+    height: 110px;
+    margin-right: 1000px;
+    margin-bottom: 20px;
+    margin-left: 40px;
 }
